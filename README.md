@@ -52,3 +52,9 @@ based on someone else's writings but don't want to use the same words might find
 
 If you find this useful send donations to orionblastar@gmail.com via Paypal or whatever. :) If not then delete this
 script and don't use it, because it is next to useless and a complete and total waste of time.
+
+Edit: My sister Eris noted that this is not Artifical Genuine Intelligence, but Artifical General Intelligence 
+which does next to nothing and will not pass a Turing test. The goal of this project is to make it so it paraphrases
+text using Artifical Genuine Intelligence and then be able to pass a Turning test. My apologies to people who thought
+it was at the level were it uses artifical genuine intelligence. That is the goal and it is just at the alpha test
+right now. Just random word replacement, that is how simple it is right now.
