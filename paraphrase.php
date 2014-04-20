@@ -30,7 +30,7 @@ if( isset($_POST['submit']) )
 }
 ?>
 Here is your original text:<p>
-<?php>
+<?php
 printf($data);
 ?>
 <p>
